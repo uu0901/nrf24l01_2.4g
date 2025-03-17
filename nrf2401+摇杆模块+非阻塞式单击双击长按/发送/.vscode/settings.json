@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "usart.h": "c",
+        "delay.h": "c",
+        "stm32f10x.h": "c",
+        "nrf24l01_define.h": "c",
+        "myled.h": "c"
+    },
+    "C_Cpp.dimInactiveRegions": true
+}
